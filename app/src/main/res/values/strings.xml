@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consulta CNPJ</string>
+    <string name="alerta_consulta">Informe um CNPJ para fazer uma consulta</string>
+    <string name="realizar_consulta">REALIZAR CONSULTA</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="resultado_consulta">Resultado da consulta</string>
+    <string name="nome_empresa">Nome da Empresa</string>
+    <string name="tipo_empresa">Tipo de Empresa</string>
+    <string name="data_situacao">Data da Situação</string>
+    <string name="motivo_situacao">Motivo da Situação</string>
+</resources>
